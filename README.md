@@ -1,3 +1,8 @@
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
+![Zustand](https://img.shields.io/badge/Zustand-State-black)
+![Vite](https://img.shields.io/badge/Vite-Build-purple?logo=vite)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # VOID GAMING STORE
 
 React와 Zustand를 활용해 구현한 미니 이커머스 프로젝트입니다.  
@@ -15,17 +20,17 @@ React와 Zustand를 활용해 구현한 미니 이커머스 프로젝트입니�
 
 ### Screenshots
 
-| Home        | Products    |
-| ----------- | ----------- |
-| 이미지 추가 | 이미지 추가 |
+| Home                           | Products                           |
+| ------------------------------ | ---------------------------------- |
+| ![](./public/preview/home.png) | ![](./public/preview/products.png) |
 
-| Product Detail | Cart        |
-| -------------- | ----------- |
-| 이미지 추가    | 이미지 추가 |
+| Product Detail                   | Cart                           |
+| -------------------------------- | ------------------------------ |
+| ![](./public/preview/detail.png) | ![](./public/preview/cart.png) |
 
-| Wishlist    | Orders      |
-| ----------- | ----------- |
-| 이미지 추가 | 이미지 추가 |
+| Wishlist                           | Orders                           |
+| ---------------------------------- | -------------------------------- |
+| ![](./public/preview/wishlist.png) | ![](./public/preview/orders.png) |
 
 ---
 
