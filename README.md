@@ -1,15 +1,13 @@
+# VOID GAMING STORE
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Zustand](https://img.shields.io/badge/Zustand-State-black)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple?logo=vite)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# VOID GAMING STORE
-
 React와 Zustand를 활용해 구현한 미니 이커머스 프로젝트입니다.  
 게이밍 마우스, 키보드, 헤드셋, 컨트롤러, 데스크매트 등의 상품을 탐색하고,  
 장바구니, 위시리스트, 주문내역까지 이어지는 기본 커머스 흐름을 구현했습니다.
-
-단순한 UI 구현에 그치지 않고, 상태관리, 카테고리 필터링, 정렬, 상세 페이지, 주문 흐름, 반응형 대응까지 포함하여 실제 서비스 구조를 고려한 프론트엔드 포트폴리오 프로젝트로 제작했습니다.
 
 ---
 
